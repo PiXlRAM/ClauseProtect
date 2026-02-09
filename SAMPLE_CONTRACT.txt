@@ -1,0 +1,168 @@
+SUBCONTRACTOR AGREEMENT
+ELECTRICAL WORK
+
+PROJECT: Downtown Office Building
+GENERAL CONTRACTOR: ABC Construction Co.
+SUBCONTRACTOR: [Electrical Subcontractor Name]
+DATE: January 15, 2024
+
+ARTICLE 1 - SCOPE OF WORK
+
+The Subcontractor shall furnish all labor, materials, equipment, and services necessary to complete the electrical work as shown on the Contract Documents, including but not limited to:
+- All electrical rough-in and finish work
+- Conduit installation and wire pulling
+- Panel and device installation
+- Testing and commissioning
+
+ARTICLE 2 - CONTRACT PRICE
+
+The total contract price for the Work is $450,000.00 (Four Hundred Fifty Thousand Dollars).
+
+ARTICLE 3 - PAYMENT TERMS
+
+3.1 Progress Payments
+The Subcontractor shall submit monthly applications for payment by the 25th of each month. Payment shall be made within 30 days of approval by the General Contractor.
+
+3.2 Retainage
+Ten percent (10%) retainage shall be withheld from each progress payment until final completion.
+
+ARTICLE 4 - SCHEDULE
+
+4.1 Commencement
+Work shall commence on February 1, 2024.
+
+4.2 Completion
+Substantial completion shall be achieved by August 31, 2024.
+
+ARTICLE 5 - CHANGES IN THE WORK
+
+5.1 Change Orders
+The General Contractor may order changes in the Work consisting of additions, deletions, or modifications. All such changes shall be authorized by written Change Order.
+
+5.2 Notice of Changed Conditions
+If the Subcontractor encounters conditions at the site that differ materially from those indicated in the Contract Documents, or if unknown physical conditions of an unusual nature are discovered, the Subcontractor shall provide written notice to the General Contractor within 48 hours of discovery.
+
+5.3 Notice Requirements
+Written notice of changed conditions must include:
+  a) Description of the changed condition
+  b) Date and time of discovery
+  c) Photographic evidence where applicable
+  d) Location of the changed condition
+  e) Estimated impact on schedule and cost
+  f) Request for direction from the General Contractor
+
+5.4 Failure to Provide Notice
+Failure to provide timely notice as required in Section 5.2 may result in waiver of any claim for additional compensation or time extension related to the changed condition.
+
+5.5 General Contractor's Response
+The General Contractor shall respond to the Subcontractor's notice within 7 days with direction on how to proceed.
+
+ARTICLE 6 - UNFORESEEN CONDITIONS
+
+6.1 Definition
+Unforeseen conditions include, but are not limited to:
+  - Concealed or unknown site conditions
+  - Conflicts with existing utilities or structures
+  - Differing subsurface conditions
+  - Hazardous materials
+  - Conditions that differ from Contract Documents
+
+6.2 Duty to Notify
+The Subcontractor has a continuing duty to notify the General Contractor of any unforeseen conditions within 48 hours of discovery.
+
+6.3 Documentation Requirements
+All notices of unforeseen conditions shall be accompanied by:
+  - Detailed written description
+  - Photographs showing the condition
+  - Sketches or drawings if applicable
+  - Proposed solution or request for direction
+
+ARTICLE 7 - CLAIMS AND DISPUTES
+
+7.1 Notice of Claim
+Any claim for additional compensation or time extension must be submitted in writing within 48 hours of the event giving rise to the claim.
+
+7.2 Claim Documentation
+Claims must include:
+  - Detailed description of the basis for the claim
+  - Contract provisions supporting the claim
+  - Documentation of costs incurred
+  - Documentation of time impact
+  - All supporting evidence
+
+7.3 Continuing Work
+The Subcontractor shall continue to perform the Work while any claim is being resolved, unless otherwise directed by the General Contractor.
+
+ARTICLE 8 - EXTRA WORK
+
+8.1 Authorization Required
+No extra work shall be performed without prior written authorization from the General Contractor.
+
+8.2 Notice of Extra Work
+If the Subcontractor believes that work being requested constitutes extra work not included in the Contract, the Subcontractor shall provide written notice to the General Contractor within 48 hours before commencing such work.
+
+8.3 Emergency Work
+In the case of emergency work necessary to protect life or property, the Subcontractor may proceed without prior authorization but must notify the General Contractor within 24 hours.
+
+ARTICLE 9 - SITE CONDITIONS
+
+9.1 Site Investigation
+The Subcontractor acknowledges having investigated the site and having satisfied itself as to the conditions affecting the Work.
+
+9.2 Differing Site Conditions
+Notwithstanding Section 9.1, if the Subcontractor encounters site conditions that differ materially from those represented in the Contract Documents or from those ordinarily encountered in work of the character provided for in the Contract, the Subcontractor shall provide written notice within 48 hours.
+
+ARTICLE 10 - COORDINATION
+
+10.1 Coordination with Other Trades
+The Subcontractor shall coordinate its work with other trades and subcontractors on the project.
+
+10.2 Conflicts
+If the Subcontractor discovers conflicts with the work of other trades, the Subcontractor shall immediately notify the General Contractor in writing.
+
+ARTICLE 11 - GENERAL PROVISIONS
+
+11.1 Contract Documents
+This Agreement, together with the General Conditions, Specifications, and Drawings, constitutes the entire agreement between the parties.
+
+11.2 Notice
+All notices required under this Agreement shall be in writing and delivered to:
+
+General Contractor:
+ABC Construction Co.
+123 Main Street
+Anytown, ST 12345
+Email: pm@abcconstruction.com
+
+11.3 Time is of the Essence
+Time is of the essence for all notice requirements in this Agreement.
+
+11.4 Waiver
+Failure to provide timely notice as required by this Agreement shall constitute a waiver of any rights to additional compensation or time extension.
+
+ARTICLE 12 - SIGNATURES
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+GENERAL CONTRACTOR:                    SUBCONTRACTOR:
+ABC Construction Co.                   [Electrical Subcontractor]
+
+By: _____________________              By: _____________________
+Name: John Smith                       Name: _____________________
+Title: Project Manager                 Title: _____________________
+Date: _____________________            Date: _____________________
+
+---
+
+NOTE: This is a sample contract for demonstration purposes only. 
+Key provisions for the Change Order Copilot:
+- Section 5.2: 48-hour notice requirement
+- Section 5.3: Notice requirements (description, date, photos, impact, request)
+- Section 5.4: Waiver for failure to provide notice
+- Section 6.2: Continuing duty to notify
+- Section 7.1: 48-hour claim notice requirement
+- Section 8.2: Extra work notice requirement
+
+These provisions are typical in construction subcontracts and demonstrate why timely, 
+compliant notice is critical for subcontractors to preserve their rights to additional 
+compensation.
