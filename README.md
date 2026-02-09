@@ -1,8 +1,13 @@
-# Change Order Copilot MVP
+# ClauseProtect (Change Order Copilot)
 
-**Subcontractor-first Change Order Notice Generator**
+> **AI-Powered Change Order Notice Generator for Electrical Subcontractors**
 
 Transform field notes and photos into contract-compliant notices in under 2 minutes.
+
+[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue)](https://www.typescriptlang.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green)](https://openai.com/)
+[![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 
 ## What This Does
 
